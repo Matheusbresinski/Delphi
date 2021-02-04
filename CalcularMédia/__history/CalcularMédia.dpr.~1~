@@ -1,0 +1,15 @@
+program CalcularMédia;
+
+uses
+  Vcl.Forms,
+  Unit1 in 'Unit1.pas' {frmMedia},
+  CLMedia in 'CLMedia.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmMedia, frmMedia);
+  Application.Run;
+end.
