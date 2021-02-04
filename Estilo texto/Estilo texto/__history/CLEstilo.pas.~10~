@@ -1,0 +1,38 @@
+unit CLEstilo;
+
+interface
+
+uses
+  Classes;
+
+type
+  TEstilo = class
+  private
+    FFonte : string;
+    Ftamanho : integer;
+    Procedure SetTamanho (valor : integer);
+  public
+    constructor Create;
+    Property Fonte : string Read FFonte Write FFonte;
+    Property Tamanho : integer Read FTamanho Write SetTamanho;
+  end;
+
+implementation
+{$R *.dfm}
+
+constructor TEstilo.Create;
+Begin
+  Fonte:= 'MS Sans Serif';
+  Tamanho := 10;
+End;
+
+Procedure TEstilo.SetTamanho(valor: Integer);
+begin
+  if valor > 4 then
+     Ftamanho:= valor
+  else
+     Ftamanho:=  4;
+end;
+
+
+end.

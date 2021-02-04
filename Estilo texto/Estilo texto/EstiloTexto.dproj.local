@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/02 09:01:29.000.726,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/02 15:37:32.000.421,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/03 10:11:20.000.248,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/03 14:16:39.000.513,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/03 14:16:50.000.754,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/03 14:20:25.000.041,C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Homologacao\Lucas\Treinamento\Estilo texto 2\CLEstilo.pas</Transaction>
+    <Transaction>2021/02/03 14:21:14.000.111,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/03 14:29:29.000.175,C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Homologacao\Lucas\Treinamento\Estilo texto 2\CLTexto.pas</Transaction>
+    <Transaction>2021/02/03 14:45:35.000.808,C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Homologacao\Lucas\Treinamento\Estilo texto 2\UnitPrincipal.dfm</Transaction>
+    <Transaction>2021/02/03 14:45:35.000.808,C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Homologacao\Lucas\Treinamento\Estilo texto 2\UnitPrincipal.pas</Transaction>
+    <Transaction>2021/02/03 14:46:27.000.469,C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Homologacao\Lucas\Treinamento\Estilo texto 2\EstiloTexto.dproj</Transaction>
+    <Transaction>2021/02/03 15:12:30.000.448,C:\Homologacao\Lucas\Treinamento\Estilo texto 2\CLEstilo.pas=</Transaction>
+    <Transaction>2021/02/03 15:12:37.000.370,=C:\Homologacao\Lucas\Treinamento\Estilo texto 2\Unit1.pas</Transaction>
+    <Transaction>2021/02/03 15:12:48.000.054,C:\Homologacao\Lucas\Treinamento\Estilo texto 2\CLEstilo.pas=C:\Homologacao\Lucas\Treinamento\Estilo texto 2\Unit1.pas</Transaction>
+    <Transaction>2021/02/03 16:03:37.000.404,=C:\Homologacao\Lucas\Treinamento\Estilo texto 2\Unit1.pas</Transaction>
+    <Transaction>2021/02/03 16:04:11.000.882,C:\Homologacao\Lucas\Treinamento\Estilo texto 2\Unit1.pas=C:\Homologacao\Lucas\Treinamento\Estilo texto 2\unitCLEstilo.pas</Transaction>
+    <Transaction>2021/02/03 16:07:18.000.192,=C:\Homologacao\Lucas\Treinamento\Estilo texto 2\Unit1.pas</Transaction>
+    <Transaction>2021/02/03 16:07:27.000.706,C:\Homologacao\Lucas\Treinamento\Estilo texto 2\Unit1.pas=C:\Homologacao\Lucas\Treinamento\Estilo texto 2\CLEstilo.pas</Transaction>
+  </Transactions>
+</BorlandProject>

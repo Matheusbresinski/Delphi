@@ -1,0 +1,16 @@
+program EstiloTexto;
+
+uses
+  Vcl.Forms,
+  UnitPrincipal in 'UnitPrincipal.pas' {frmFormatcao},
+  CLEstilo in 'CLEstilo.pas',
+  CLTexto in 'CLTexto.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmFormatcao, frmFormatcao);
+  Application.Run;
+end.
