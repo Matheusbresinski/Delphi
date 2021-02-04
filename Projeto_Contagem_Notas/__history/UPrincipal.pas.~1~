@@ -1,0 +1,35 @@
+unit UPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Buttons;
+
+type
+  TfrmDLContagemCedulas = class(TForm)
+    Edit1: TEdit;
+    Label1: TLabel;
+    Label2: TLabel;
+    btnProcessar: TBitBtn;
+    mmeCedulas: TMemo;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmDLContagemCedulas: TfrmDLContagemCedulas;
+
+implementation
+
+{$R *.dfm}
+
+procedure TfrmDLContagemCedulas.Button1Click(Sender: TObject);
+begin
+  ShowMessage('Hello World');
+end;
+
+end.

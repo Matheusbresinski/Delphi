@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/01 17:04:40.000.602,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/03 08:20:23.840,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/03 08:20:39.943,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/02/03 08:20:39.943,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/03 08:21:59.043,C:\Users\Usuário\Desktop\ContagemCedulas\Unit1.pas=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/03 08:21:59.043,C:\Users\Usuário\Desktop\ContagemCedulas\Unit1.dfm=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/02/03 08:22:27.953,C:\Users\Usuário\Desktop\ContagemCedulas\TcontagemCedulas.dproj=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
