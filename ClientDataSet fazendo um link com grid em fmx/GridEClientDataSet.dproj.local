@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/03 10:31:35.000.816,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/03/03 10:34:11.000.174,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Usuário\Desktop\Unit2.pas</Transaction>
+    <Transaction>2021/03/03 10:34:11.000.174,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit2.fmx=C:\Users\Usuário\Desktop\Unit2.fmx</Transaction>
+    <Transaction>2021/03/03 10:34:12.000.510,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Usuário\Desktop\Project3.dproj</Transaction>
+    <Transaction>2021/03/03 10:34:13.000.255,=C:\Users\Usuário\Desktop\ModelSupport_Project3\default.txaPackage</Transaction>
+    <Transaction>2021/03/03 10:34:15.000.528,=C:\Users\Usuário\Desktop\ModelSupport_Project3\default.txvpck</Transaction>
+    <Transaction>2021/03/03 15:16:19.521,C:\Users\Usuário\Desktop\ClientDataSet fazendo um link com grid em fmx\GridEClientDataSet.dproj=C:\Users\Usuário\Desktop\Project3.dproj</Transaction>
+    <Transaction>2021/03/03 15:16:19.553,c:\users\usuário\desktop\modelsupport_project3\default.txapackage=</Transaction>
+    <Transaction>2021/03/03 15:16:19.563,=C:\Users\Usuário\Desktop\ModelSupport_GridEClientDataSet\default.txaPackage</Transaction>
+    <Transaction>2021/03/03 15:16:19.564,c:\users\usuário\desktop\modelsupport_project3\default.txvpck=</Transaction>
+    <Transaction>2021/03/03 15:16:19.572,=C:\Users\Usuário\Desktop\ModelSupport_GridEClientDataSet\default.txvpck</Transaction>
+    <Transaction>2021/03/03 15:16:19.726,=C:\Users\Usuário\Desktop\ModelSupport_GridEClientDataSet\GridEClientDataSet\default.txvpck</Transaction>
+    <Transaction>2021/03/03 15:16:19.750,=C:\Users\Usuário\Desktop\ModelSupport_GridEClientDataSet\Unit2\default.txvpck</Transaction>
+    <Transaction>2021/03/03 15:16:20.065,=C:\Users\Usuário\Desktop\ModelSupport_GridEClientDataSet\GridEClientDataSet\default.txaPackage</Transaction>
+    <Transaction>2021/03/03 15:16:44.891,C:\Users\Usuário\Desktop\ClientDataSet fazendo um link com grid em fmx\uPrincipal.pas=C:\Users\Usuário\Desktop\Unit2.pas</Transaction>
+    <Transaction>2021/03/03 15:16:44.891,C:\Users\Usuário\Desktop\ClientDataSet fazendo um link com grid em fmx\uPrincipal.fmx=C:\Users\Usuário\Desktop\Unit2.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

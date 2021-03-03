@@ -1,0 +1,326 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 753
+  ClientWidth = 793
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Align = Left
+    Size.Width = 336.000000000000000000
+    Size.Height = 753.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    object rQtd: TRectangle
+      Align = Top
+      Fill.Kind = Resource
+      Margins.Left = 10.000000000000000000
+      Position.X = 10.000000000000000000
+      Size.Width = 326.000000000000000000
+      Size.Height = 100.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Thickness = 0.000000000000000000
+      object lQtd: TLabel
+        Align = Top
+        StyledSettings = [Family, Style]
+        Size.Width = 326.000000000000000000
+        Size.Height = 41.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = 'Label1Style1'
+        TextSettings.Font.Size = 16.000000000000000000
+        TextSettings.FontColor = xFF29335F
+        Text = 'Quantidade'
+        TabOrder = 0
+      end
+      object rEditQtd: TRectangle
+        Align = Client
+        Fill.Color = claWhite
+        Margins.Bottom = 10.000000000000000000
+        Size.Width = 326.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Color = xFFABB6C0
+        object eQtd: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          Anchors = []
+          StyleLookup = 'Edit1Style1'
+          TabOrder = 0
+          TextSettings.Font.Size = 20.000000000000000000
+          TextSettings.HorzAlign = Trailing
+          Size.Width = 326.000000000000000000
+          Size.Height = 49.000000000000000000
+          Size.PlatformDefault = False
+          StyledSettings = [Family, Style, FontColor]
+        end
+      end
+    end
+    object rCodProd: TRectangle
+      Align = Top
+      Fill.Kind = Resource
+      Margins.Left = 10.000000000000000000
+      Margins.Top = 10.000000000000000000
+      Margins.Right = 10.000000000000000000
+      Margins.Bottom = 20.000000000000000000
+      Position.X = 10.000000000000000000
+      Position.Y = 310.000000000000000000
+      Size.Width = 316.000000000000000000
+      Size.Height = 90.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Thickness = 0.000000000000000000
+      XRadius = 0.800000011920929000
+      YRadius = 0.800000011920929000
+      object lCodProd: TLabel
+        Align = Top
+        StyledSettings = [Family, Style]
+        Size.Width = 316.000000000000000000
+        Size.Height = 41.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = 'Label1Style1'
+        TextSettings.Font.Size = 16.000000000000000000
+        TextSettings.FontColor = xFF29335F
+        Text = 'Cod. / Produto (F2)'
+        TabOrder = 0
+      end
+      object rEditCodProd: TRectangle
+        Align = Client
+        Fill.Color = claWhite
+        Size.Width = 316.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Color = xFFABB6C0
+        object eCodProd: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          Anchors = []
+          StyleLookup = 'Edit1Style1'
+          TabOrder = 0
+          MaxLength = 14
+          TextSettings.Font.Size = 20.000000000000000000
+          Size.Width = 316.000000000000000000
+          Size.Height = 49.000000000000000000
+          Size.PlatformDefault = False
+          StyledSettings = [Family, Style, FontColor]
+          OnExit = eCodProdExit
+        end
+      end
+    end
+    object rVUnit: TRectangle
+      Align = Top
+      Fill.Kind = Resource
+      Margins.Left = 10.000000000000000000
+      Position.X = 10.000000000000000000
+      Position.Y = 200.000000000000000000
+      Size.Width = 326.000000000000000000
+      Size.Height = 100.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Thickness = 0.000000000000000000
+      object lVUnit: TLabel
+        Align = Top
+        StyledSettings = [Family, Style]
+        Size.Width = 326.000000000000000000
+        Size.Height = 41.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = 'Label1Style1'
+        TextSettings.Font.Size = 16.000000000000000000
+        TextSettings.FontColor = xFF29335F
+        Text = 'Valor Unit'#225'rio'
+        TabOrder = 0
+      end
+      object rEditVUnit: TRectangle
+        Align = Client
+        Fill.Color = claWhite
+        Margins.Bottom = 10.000000000000000000
+        Size.Width = 326.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Color = xFFABB6C0
+        object eValorUnit: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          Anchors = []
+          StyleLookup = 'Edit1Style1'
+          TabOrder = 0
+          TextSettings.Font.Size = 20.000000000000000000
+          TextSettings.HorzAlign = Trailing
+          Size.Width = 326.000000000000000000
+          Size.Height = 49.000000000000000000
+          Size.PlatformDefault = False
+          StyledSettings = [Family, Style, FontColor]
+        end
+      end
+    end
+    object rValorTotal: TRectangle
+      Align = Top
+      Fill.Kind = Resource
+      Margins.Left = 10.000000000000000000
+      Position.X = 10.000000000000000000
+      Position.Y = 100.000000000000000000
+      Size.Width = 326.000000000000000000
+      Size.Height = 100.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Thickness = 0.000000000000000000
+      object lVTotal: TLabel
+        Align = Top
+        StyledSettings = [Family, Style]
+        Size.Width = 326.000000000000000000
+        Size.Height = 41.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = 'Label1Style1'
+        TextSettings.Font.Size = 16.000000000000000000
+        TextSettings.FontColor = xFF29335F
+        Text = 'Valor Total'
+        TabOrder = 0
+      end
+      object rEditVTotal: TRectangle
+        Align = Client
+        Fill.Color = claWhite
+        Opacity = 0.800000011920929000
+        Margins.Bottom = 10.000000000000000000
+        Size.Width = 326.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Color = xFFABB6C0
+        object eVTotal: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          Anchors = []
+          StyleLookup = 'Edit1Style1'
+          TabOrder = 0
+          TextSettings.Font.Size = 20.000000000000000000
+          TextSettings.HorzAlign = Trailing
+          Enabled = False
+          Size.Width = 326.000000000000000000
+          Size.Height = 49.000000000000000000
+          Size.PlatformDefault = False
+          StyledSettings = [Family, Style, FontColor]
+        end
+      end
+    end
+    object ENTER: TButton
+      Position.X = 128.000000000000000000
+      Position.Y = 440.000000000000000000
+      TabOrder = 0
+      Text = 'ENTER'
+      OnClick = ENTERClick
+    end
+    object Button2: TButton
+      Position.X = 128.000000000000000000
+      Position.Y = 496.000000000000000000
+      TabOrder = 1
+      Text = 'F9'
+      OnClick = Button2Click
+    end
+  end
+  object Grid1: TGrid
+    Align = Client
+    CanFocus = True
+    ClipChildren = True
+    Size.Width = 457.000000000000000000
+    Size.Height = 753.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'Grid1Style1'
+    TabOrder = 5
+    RowCount = 0
+    Viewport.Width = 453.000000000000000000
+    Viewport.Height = 728.000000000000000000
+  end
+  object cData: TClientDataSet
+    PersistDataPacket.Data = {
+      8C0000009619E0BD0100000018000000050000000000030000008C000750524F
+      4455544F01004900000001000557494454480200020014000F4E4F4D455F444F
+      5F50524F4455544F01004900000001000557494454480200020014000A515541
+      4E544944414445080004000000000008554E49544152494F0800040000000000
+      05544F54414C08000400000000000000}
+    Active = True
+    Aggregates = <>
+    FieldDefs = <
+      item
+        Name = 'PRODUTO'
+        DataType = ftString
+        Size = 20
+      end
+      item
+        Name = 'NOME_DO_PRODUTO'
+        DataType = ftString
+        Size = 20
+      end
+      item
+        Name = 'QUANTIDADE'
+        DataType = ftFloat
+      end
+      item
+        Name = 'UNITARIO'
+        DataType = ftFloat
+      end
+      item
+        Name = 'TOTAL'
+        DataType = ftFloat
+      end>
+    IndexDefs = <>
+    Params = <>
+    StoreDefs = True
+    Left = 680
+    Top = 160
+    object cDataPRODUTO: TStringField
+      FieldName = 'PRODUTO'
+    end
+    object cDataNOME_DO_PRODUTO: TStringField
+      FieldName = 'NOME_DO_PRODUTO'
+    end
+    object cDataQUANTIDADE: TFloatField
+      FieldName = 'QUANTIDADE'
+      DisplayFormat = '###,##0.00'
+      EditFormat = '###,##0.00'
+    end
+    object cDataUNITARIO: TFloatField
+      FieldName = 'UNITARIO'
+      DisplayFormat = '###,##0.00'
+      EditFormat = '###,##0.00'
+    end
+    object cDataTOTAL: TFloatField
+      FieldName = 'TOTAL'
+      EditFormat = '###,##0.00'
+    end
+  end
+  object BindingsList1: TBindingsList
+    Methods = <>
+    OutputConverters = <>
+    Left = 516
+    Top = 181
+    object LinkGridToDataSourceBindSourceDB1: TLinkGridToDataSource
+      Category = 'Quick Bindings'
+      DataSource = BindSourceDB1
+      GridControl = Grid1
+      Columns = <
+        item
+          MemberName = 'PRODUTO'
+          Width = 110
+        end
+        item
+          MemberName = 'NOME_DO_PRODUTO'
+          Header = 'NOME DO PRODUTO'
+          Width = 122
+        end
+        item
+          MemberName = 'QUANTIDADE'
+          Width = 85
+        end
+        item
+          MemberName = 'UNITARIO'
+        end
+        item
+          MemberName = 'TOTAL'
+        end>
+    end
+  end
+  object BindSourceDB1: TBindSourceDB
+    DataSet = cData
+    ScopeMappings = <>
+    Left = 384
+    Top = 360
+  end
+end
