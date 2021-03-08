@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/03 17:27:15.000.487,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/03/08 09:22:19.000.951,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/03/08 10:08:22.000.513,C:\Users\Usuário\Desktop\Mascarar\UPrincipal.fmx=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2021/03/08 10:08:22.000.513,C:\Users\Usuário\Desktop\Mascarar\UPrincipal.pas=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/03/08 10:08:31.000.541,C:\Users\Usuário\Desktop\Mascarar\Mascarar.dproj=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2021/03/08 10:10:50.000.438,=C:\Users\Usuário\Desktop\Mascarar\uFormat.pas</Transaction>
+    <Transaction>2021/03/08 10:20:05.411,C:\Users\Usuário\Desktop\Mascarar\FormatandoMascarasEdit.dproj=C:\Users\Usuário\Desktop\Mascarar\Mascarar.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
