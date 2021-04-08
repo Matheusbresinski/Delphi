@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/07 14:13:36.000.643,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/07 21:58:04.000.734,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/11 21:50:51.000.197,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/07 21:15:43.730,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/07 21:18:48.292,C:\Users\Usuario\Desktop\Projeto Calculadora Orientada a Objeto\UPrincipa.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/04/07 21:18:48.292,C:\Users\Usuario\Desktop\Projeto Calculadora Orientada a Objeto\UPrincipa.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/07 21:18:54.358,C:\Users\Usuario\Desktop\Projeto Calculadora Orientada a Objeto\Calculadora.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/04/07 21:19:01.955,=C:\Users\Usuario\Desktop\Projeto Calculadora Orientada a Objeto\Unit1.pas</Transaction>
+    <Transaction>2021/04/07 21:19:34.271,C:\Users\Usuario\Desktop\Projeto Calculadora Orientada a Objeto\uClasse.Calculadora.pas=C:\Users\Usuario\Desktop\Projeto Calculadora Orientada a Objeto\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
